@@ -1,0 +1,12 @@
+[
+  { "kata": "gitar", "awalan": "g", "huruf": 5 },
+  { "kata": "piano", "awalan": "p", "huruf": 5 },
+  { "kata": "biola", "awalan": "b", "huruf": 5 },
+  { "kata": "drum", "awalan": "d", "huruf": 4 },
+  { "kata": "saxofon", "awalan": "s", "huruf": 7 },
+  { "kata": "terompet", "awalan": "t", "huruf": 8 },
+  { "kata": "harmonika", "awalan": "h", "huruf": 9 },
+  { "kata": "kendang", "awalan": "k", "huruf": 7 },
+  { "kata": "angklung", "awalan": "a", "huruf": 8 },
+  { "kata": "suling", "awalan": "s", "huruf": 6 }
+]
