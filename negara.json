@@ -1,0 +1,12 @@
+[
+  { "kata": "indonesia", "awalan": "i", "huruf": 9 },
+  { "kata": "malaysia", "awalan": "m", "huruf": 8 },
+  { "kata": "jepang", "awalan": "j", "huruf": 6 },
+  { "kata": "korea", "awalan": "k", "huruf": 5 },
+  { "kata": "thailand", "awalan": "t", "huruf": 8 },
+  { "kata": "singapura", "awalan": "s", "huruf": 9 },
+  { "kata": "vietnam", "awalan": "v", "huruf": 7 },
+  { "kata": "brunei", "awalan": "b", "huruf": 6 },
+  { "kata": "filipina", "awalan": "f", "huruf": 8 },
+  { "kata": "myanmar", "awalan": "m", "huruf": 7 }
+]
