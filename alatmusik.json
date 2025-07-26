@@ -1,12 +1,82 @@
 [
-  { "kata": "gitar", "awalan": "g", "huruf": 5 },
-  { "kata": "piano", "awalan": "p", "huruf": 5 },
-  { "kata": "biola", "awalan": "b", "huruf": 5 },
-  { "kata": "drum", "awalan": "d", "huruf": 4 },
-  { "kata": "saxofon", "awalan": "s", "huruf": 7 },
-  { "kata": "terompet", "awalan": "t", "huruf": 8 },
-  { "kata": "harmonika", "awalan": "h", "huruf": 9 },
-  { "kata": "kendang", "awalan": "k", "huruf": 7 },
-  { "kata": "angklung", "awalan": "a", "huruf": 8 },
-  { "kata": "suling", "awalan": "s", "huruf": 6 }
+  {
+    "soal": "Alat musik bersenar, dimainkan dengan cara dipetik. Berawalan *g*, 5 huruf.",
+    "jawaban": "gitar"
+  },
+  {
+    "soal": "Alat musik tuts, sering digunakan dalam musik klasik. Berawalan *p*, 5 huruf.",
+    "jawaban": "piano"
+  },
+  {
+    "soal": "Alat musik gesek, kecil, digunakan dalam orkestra. Berawalan *b*, 5 huruf.",
+    "jawaban": "biola"
+  },
+  {
+    "soal": "Alat musik pukul, terdiri dari beberapa tabung besar. Berawalan *d*, 4 huruf.",
+    "jawaban": "drum"
+  },
+  {
+    "soal": "Alat musik tiup, berwarna perak atau emas, berawalan *s*, 7 huruf.",
+    "jawaban": "saxofon"
+  },
+  {
+    "soal": "Alat musik tiup logam, bersuara nyaring. Berawalan *t*, 8 huruf.",
+    "jawaban": "terompet"
+  },
+  {
+    "soal": "Alat musik kecil, dimainkan dengan ditiup dan digesek. Berawalan *h*, 9 huruf.",
+    "jawaban": "harmonika"
+  },
+  {
+    "soal": "Alat musik tradisional Indonesia, dimainkan dengan dipukul. Berawalan *k*, 7 huruf.",
+    "jawaban": "kendang"
+  },
+  {
+    "soal": "Alat musik bambu khas Sunda. Berawalan *a*, 8 huruf.",
+    "jawaban": "angklung"
+  },
+  {
+    "soal": "Alat musik tiup bambu, dimainkan dengan cara ditiup. Berawalan *s*, 6 huruf.",
+    "jawaban": "suling"
+  },
+  {
+    "soal": "Alat musik tuts yang besar dan sering digunakan di gereja. Berawalan *o*, 5 huruf.",
+    "jawaban": "organ"
+  },
+  {
+    "soal": "Alat musik petik dengan bentuk besar, dimainkan sambil duduk. Berawalan *h*, 4 huruf.",
+    "jawaban": "harp"
+  },
+  {
+    "soal": "Alat musik logam berbentuk piring, dimainkan dengan dipukul. Berawalan *s*, 7 huruf.",
+    "jawaban": "simbal"
+  },
+  {
+    "soal": "Alat musik kecil, dimainkan dengan dipukul berpasangan. Berawalan *k*, 8 huruf.",
+    "jawaban": "kastanyet"
+  },
+  {
+    "soal": "Alat musik petik khas Jepang. Berawalan *k*, 5 huruf.",
+    "jawaban": "koto"
+  },
+  {
+    "soal": "Alat musik tradisional Bali, terdiri dari logam. Berawalan *g*, 7 huruf.",
+    "jawaban": "gamelan"
+  },
+  {
+    "soal": "Alat musik gesek besar, sering digunakan dalam orkestra. Berawalan *s*, 5 huruf.",
+    "jawaban": "selo"
+  },
+  {
+    "soal": "Alat musik digital modern, bisa meniru banyak suara. Berawalan *s*, 10 huruf.",
+    "jawaban": "synthesizer"
+  },
+  {
+    "soal": "Alat musik ketuk kecil, dimainkan dengan tangan. Berawalan *b*, 7 huruf.",
+    "jawaban": "bongo"
+  },
+  {
+    "soal": "Alat musik logam kecil, sering dimainkan anak-anak. Berawalan *t*, 6 huruf.",
+    "jawaban": "triangle"
+  }
 ]
