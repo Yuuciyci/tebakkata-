@@ -1,5 +1,12 @@
 [
-  { "jawaban": "sirius", "awalan": "s", "huruf": 6 },
-  { "jawaban": "canopus", "awalan": "c", "huruf": 7 },
-  { "jawaban": "vega", "awalan": "v", "huruf": 4 },
+  { "jawaban": "gitar", "awalan": "g", "huruf": 5 },
+  { "jawaban": "piano", "awalan": "p", "huruf": 5 },
+  { "jawaban": "biola", "awalan": "b", "huruf": 5 },
+  { "jawaban": "drum", "awalan": "d", "huruf": 4 },
+  { "jawaban": "seruling", "awalan": "s", "huruf": 8 },
+  { "jawaban": "saxophone", "awalan": "s", "huruf": 9 },
+  { "jawaban": "harmonika", "awalan": "h", "huruf": 9 },
+  { "jawaban": "ukulele", "awalan": "u", "huruf": 7 },
+  { "jawaban": "kendang", "awalan": "k", "huruf": 7 },
+  { "jawaban": "tamborin", "awalan": "t", "huruf": 8 }
 ]
