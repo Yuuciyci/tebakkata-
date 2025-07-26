@@ -1,0 +1,22 @@
+[
+  { "kata": "gitar", "awalan": "g", "huruf": 5 },
+  { "kata": "piano", "awalan": "p", "huruf": 5 },
+  { "kata": "seruling", "awalan": "s", "huruf": 8 },
+  { "kata": "bintang", "awalan": "b", "huruf": 7 },
+  { "kata": "matahari", "awalan": "m", "huruf": 8 },
+  { "kata": "venus", "awalan": "v", "huruf": 5 },
+  { "kata": "apel", "awalan": "a", "huruf": 4 },
+  { "kata": "pisang", "awalan": "p", "huruf": 6 },
+  { "kata": "jeruk", "awalan": "j", "huruf": 5 },
+  { "kata": "indonesia", "awalan": "i", "huruf": 9 },
+  { "kata": "jepang", "awalan": "j", "huruf": 6 },
+  { "kata": "italia", "awalan": "i", "huruf": 6 },
+  { "kata": "saksofon", "awalan": "s", "huruf": 8 },
+  { "kata": "drum", "awalan": "d", "huruf": 4 },
+  { "kata": "mars", "awalan": "m", "huruf": 4 },
+  { "kata": "neptunus", "awalan": "n", "huruf": 8 },
+  { "kata": "mangga", "awalan": "m", "huruf": 6 },
+  { "kata": "anggur", "awalan": "a", "huruf": 6 },
+  { "kata": "turki", "awalan": "t", "huruf": 5 },
+  { "kata": "peru", "awalan": "p", "huruf": 4 }
+]
