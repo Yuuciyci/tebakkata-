@@ -1,0 +1,17 @@
+[
+  { "jawaban": "matematika", "awalan": "m", "huruf": 10 },
+  { "jawaban": "fisika", "awalan": "f", "huruf": 6 },
+  { "jawaban": "kimia", "awalan": "k", "huruf": 5 },
+  { "jawaban": "biologi", "awalan": "b", "huruf": 7 },
+  { "jawaban": "sejarah", "awalan": "s", "huruf": 7 },
+  { "jawaban": "geografi", "awalan": "g", "huruf": 8 },
+  { "jawaban": "ekonomi", "awalan": "e", "huruf": 7 },
+  { "jawaban": "sosiologi", "awalan": "s", "huruf": 9 },
+  { "jawaban": "bahasa", "awalan": "b", "huruf": 7 },
+  { "jawaban": "etika", "awalan": "e", "huruf": 5 },
+  { "jawaban": "logika", "awalan": "l", "huruf": 6 },
+  { "jawaban": "astronomi", "awalan": "a", "huruf": 9 },
+  { "jawaban": "filosofi", "awalan": "f", "huruf": 8 },
+  { "jawaban": "antropologi", "awalan": "a", "huruf": 11 },
+  { "jawaban": "gramatika", "awalan": "g", "huruf": 9 }
+]
